@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Dinfoalmus
-- 🌱 I’m currently learning programming in Python and Java.
+- 🌱 I’m currently learning programming with Python and Java.
